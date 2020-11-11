@@ -1,4 +1,14 @@
-# ios-simulators
+# iOS Simulators
+
+## How to install
+
+- Download iOS simulator dmg
+
+- Copy to `~/Library/Caches/com.apple.dt.Xcode/Downloads/`
+
+- Click download button in Xcode Components
+
+## Simulators
 
 [iOS 14.1 Simulator](https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK14_1-14.1.1.1604100028.dmg)
 
